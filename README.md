@@ -6,7 +6,7 @@ Browse, filter, search, and compare AI tools across different categories — wit
 <div align="center">
 🌟 Live Demo (optional)
 
-Your deployment link here
+Your deployment link here 🔗 https://ai-discoverer.vercel.app
 
 
 ## 🛠️ Tech Stack
@@ -45,48 +45,6 @@ Your deployment link here
 ✔ User reviews on each AI tool (upcoming)
 ✔ Auth system for adding reviews
 
-🧑‍💻 Upcoming Feature: User Reviews After Login
-
-You mentioned you want users to review AI tools after creating an account.
-This feature will be added in the roadmap:
-
-📝 How It Will Work
-
-User signs up/login (NextAuth or Firebase Auth)
-
-On each tool page, a new “Write a Review” section appears
-
-Users can submit:
-
-⭐ Rating (1 to 5)
-
-📝 Review text
-
-Reviews are stored in:
-
-Firebase
-
-MongoDB
-
-Or PostgreSQL
-(Your choice — tell me and I'll generate the schema.)
-
-Reviews display publicly under each tool page
-
-Users can delete their own reviews
-
-Admin can moderate reviews from the dashboard
-
-If you want, I can generate:
-
-✔ Review form UI
-✔ Review list UI
-✔ Database schema
-✔ API routes
-✔ Protected routes
-✔ Admin moderation panel
-
-Just tell me — "generate review system for Next.js".
 
 📝 Dataset Used
 
@@ -166,6 +124,13 @@ Better dark mode
 Shadows, gradients, transitions
 
 📸 Screenshots
+<div align="center">
+🏷️ Categories Section
+<img src="./category.png" width="80%" alt="Categories Screenshot" />
+🧭 Header Section
+<img src="./header.png" width="80%" alt="Header Screenshot" />
+📩 Footer Section
+<img src="./footer.png" width="80%" alt="Footer Screenshot" /> </div>
 
 
 ⚙️ Installation
