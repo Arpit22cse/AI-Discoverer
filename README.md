@@ -136,10 +136,12 @@ Shadows, gradients, transitions
 
 
 ⚙️ Installation
-<div>git clone </div>
+<div>
+<div>git clone https://github.com/Arpit22cse/AI-Discoverer </div>
 <div>cd ai-discoverer</div>
 <div>npm install</div>
 <div>npm run dev</div>
+</div>
 
 
 Runs on:
