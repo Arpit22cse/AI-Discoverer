@@ -125,21 +125,21 @@ Shadows, gradients, transitions
 
 📸 Screenshots
 <div align="center">
-🏷️ Categories Section
+<div>🏷️ Categories Section</div>
 <img src="/public/category.png" width="80%" alt="Categories Screenshot" />
 <br/>
-🧭 Header Section
+<div>🧭 Header Section</div>
 <img src="/public/header.png" width="80%" alt="Header Screenshot" />
 <br/>
-📩 Footer Section
+<div>📩 Footer Section</div>
 <img src="/public/footer.png" width="80%" alt="Footer Screenshot" /> </div>
 
 
 ⚙️ Installation
-git clone 
-cd ai-discoverer
-npm install
-npm run dev
+<div>git clone </div>
+<div>cd ai-discoverer</div>
+<div>npm install</div>
+<div>npm run dev</div>
 
 
 Runs on:
