@@ -127,8 +127,10 @@ Shadows, gradients, transitions
 <div align="center">
 🏷️ Categories Section
 <img src="/public/category.png" width="80%" alt="Categories Screenshot" />
+<br/>
 🧭 Header Section
 <img src="/public/header.png" width="80%" alt="Header Screenshot" />
+<br/>
 📩 Footer Section
 <img src="/public/footer.png" width="80%" alt="Footer Screenshot" /> </div>
 
