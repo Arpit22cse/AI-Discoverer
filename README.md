@@ -126,11 +126,11 @@ Shadows, gradients, transitions
 📸 Screenshots
 <div align="center">
 🏷️ Categories Section
-<img src="./category.png" width="80%" alt="Categories Screenshot" />
+<img src="/public/category.png" width="80%" alt="Categories Screenshot" />
 🧭 Header Section
-<img src="./header.png" width="80%" alt="Header Screenshot" />
+<img src="/public/header.png" width="80%" alt="Header Screenshot" />
 📩 Footer Section
-<img src="./footer.png" width="80%" alt="Footer Screenshot" /> </div>
+<img src="/public/footer.png" width="80%" alt="Footer Screenshot" /> </div>
 
 
 ⚙️ Installation
